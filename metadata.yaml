@@ -1,12 +1,17 @@
 _repo: Ten-years-in-Burma_72797
 _version: 0.1.0
 alternative_title: 10 years in Burma
+covers:
+- cover_type: archival
+  image_path: 72797-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Julius
     gutenberg_agent_id: '56809'
     url: http://www.gutenberg.org/2009/agents/56809
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72797#Ten-years-in-Burma
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
