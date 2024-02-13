@@ -1,0 +1,35 @@
+_repo: Ten-years-in-Burma_72797
+_version: 0.0.1
+alternative_title: 10 years in Burma
+creator:
+  author:
+    agent_name: Smith, Julius
+    gutenberg_agent_id: '56809'
+    url: http://www.gutenberg.org/2009/agents/56809
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72797'
+  lccn: 02008219
+language: en
+pgterms:marc904: https://archive.org/details/tenyearsinburma0000smit
+pgterms:marc905: 20210601111830smith
+pgterms:marc906: '1902'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aCincinnati :$bJennings & Pye, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burma -- Description and travel'
+- !lcsh 'Burma -- Social life and customs'
+- !lcsh 'Missionaries -- Burma -- Biography'
+- !lcsh 'Smith, Julius'
+- !lcsh 'Methodist Episcopal Church -- Missions'
+- !lcc 'DS'
+- GITenberg
+title: Ten years in Burma
+url: http://www.gutenberg.org/ebooks/72797
